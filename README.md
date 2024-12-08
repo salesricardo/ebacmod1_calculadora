@@ -1,10 +1,10 @@
 # EBAC - PRÁTICA MÓDULO 1
 
-**Aluno:** Ricardo Dias de Sales (salesdiasrds@gmail.com)
-**Professor:** Rodrigo Rebouças
-**Curso:** Curso EBAC, Analista de Dados
-**Criação:** 29/11/2024
-**Última revisão:** 30/11/2024
+ - **Aluno:** Ricardo Dias de Sales (salesdiasrds@gmail.com)
+ - **Professor:** Rodrigo Rebouças
+ - **Curso:** Curso EBAC, Analista de Dados
+ - **Criação:** 29/11/2024
+ - **Última revisão:** 30/11/2024
 
 
 ## Descrição
