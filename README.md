@@ -3,8 +3,8 @@
  - **Aluno:** Ricardo Dias de Sales (salesdiasrds@gmail.com)
  - **Professor:** Rodrigo Rebouças
  - **Curso:** Curso EBAC, Analista de Dados
- - **Criação:** 29/11/2024
- - **Última revisão:** 30/11/2024
+ - **Criação:** 08/12/2024
+ - **Última revisão:** 08/12/2024
 
 
 ## Descrição
