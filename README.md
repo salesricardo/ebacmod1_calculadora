@@ -86,6 +86,10 @@ Este projeto foi pensado para servir apenas com o propósito de conclusão das a
 
 A citar um exemplo claro, seria fazer o uso do tratamento de exceções, por exemplo, uma vez que a calculadora acaba que se limitando a trabalhar apenas com números positivos. Contudo, embora essa seja uma possível melhoria para o programa, é importante lembrar de manter-me dentro apenas do conteúdo que foi visto, sem atropelar o material que deve ser passado e estudado. Eventualmente, nada me impede de fazer uma versão melhor do programa num momento futuro e, provavelmente, isso estará em outro repositório, preservando este como uma atividade feita.
 
+3 - Onde está o arquivo .gitignore deste projeto?
+
+Este projeto é muito simples, e não há uma necessidade de ignorar quaisquer arquivos.
+
 ## Licença
 
 Este programa é distribuído sob a licença [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).
